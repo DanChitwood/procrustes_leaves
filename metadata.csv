@@ -1,0 +1,11 @@
+﻿file,dataset,px_cm,genotype,node,base_x,base_y,tip_x,tip_y
+col_lf1.tif,arabidopsis,462,col,1,1029,1539,974.5,461.5
+col_lf2.tif,arabidopsis,462,col,2,921,1644,995.5,350.5
+col_lf3.tif,arabidopsis,462,col,3,915,1647,977.5,353.5
+col_lf4.tif,arabidopsis,462,col,4,1056,1575,953.5,425.5
+col_lf5.tif,arabidopsis,462,col,5,954,1392,1016.5,608.5
+ull_lf1.tif,arabidopsis,462,ull23,1,969,1737,1004.5,266.5
+ull_lf2.tif,arabidopsis,462,ull23,2,1164,1878,1067.5,128.5
+ull_lf3.tif,arabidopsis,462,ull23,3,984,1914,1022.5,80.5
+ull_lf4.tif,arabidopsis,462,ull23,4,924,1719,1028.5,266.5
+ull_lf5.tif,arabidopsis,462,ull23,5,999,1482,1004.5,515.5
