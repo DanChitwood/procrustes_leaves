@@ -1,2 +1,2 @@
-# frechet_leaves
+# procrustes_leaves
 A repository for morphometric analysis of leaf shape
